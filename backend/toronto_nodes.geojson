@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Vaughan Metropolitan Centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5274867,
+                    43.7942439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Warden Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.2790171,
+                    43.7114072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Kipling"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5354249,
+                    43.6376286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bloor-Yonge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.385918,
+                    43.671043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "York Mills"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4064875,
+                    43.7448669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Eglinton"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3989653,
+                    43.7053057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Don Mills"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3453617,
+                    43.7757106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Pioneer Village Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5120964,
+                    43.7779629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "College Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3830746,
+                    43.6613247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bathurst"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4112152,
+                    43.6660011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Pape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3449091,
+                    43.6799348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "York University"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4998269,
+                    43.7739092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Main Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.301919,
+                    43.6889948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "King"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3778599,
+                    43.6491523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "St Andrew"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3848079,
+                    43.6476574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Keele"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4597003,
+                    43.6555476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Dundas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.380459,
+                    43.6562811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Osgoode"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3868314,
+                    43.6506144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Sheppard West"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4618986,
+                    43.7496913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Finch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4154549,
+                    43.7802605
+                ]
+            }
+        }
+    ]
+}
