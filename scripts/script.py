@@ -1,12 +1,15 @@
 import json
+import re
 
 def convert_to_json(data):
     neighborhoods = {}
     for line in data.strip().split('\n'):
-        parts = line.rsplit('\t', 1)
+        # Use regular expression to split on multiple spaces
+        parts = re.split(r'\s{2,}', line.strip())
         if len(parts) == 2:
             name, population = parts
-            neighborhoods[name.strip()] = int(population.strip())
+            # Remove commas from population and convert to int
+            neighborhoods[name.strip()] = int(population.replace(',', ''))
     return neighborhoods
 
 # The data string (replace this with reading from a file in a real scenario)
