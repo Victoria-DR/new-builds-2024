@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bloor-Yonge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.385918,
+                    43.671043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Eglinton"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3989653,
+                    43.7053057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "College Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3830746,
+                    43.6613247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bathurst"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4112152,
+                    43.6660011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Pape"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3449091,
+                    43.6799348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Main Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.301919,
+                    43.6889948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "King"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3778599,
+                    43.6491523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "St Andrew"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3848079,
+                    43.6476574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Keele"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4597003,
+                    43.6555476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Dundas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.380459,
+                    43.6562811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Osgoode"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3868314,
+                    43.6506144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Dufferin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4356792,
+                    43.6601528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "St Clair"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3930467,
+                    43.6874845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Queen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3792228,
+                    43.6523969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "St George"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3998421,
+                    43.6682821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Eglinton West"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4361468,
+                    43.6993703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Queen's Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3904768,
+                    43.6598804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Sherbourne"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3764313,
+                    43.6721666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3899933,
+                    43.6703296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Yorkdale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4474947,
+                    43.7245766
+                ]
+            }
+        }
+    ]
+}
