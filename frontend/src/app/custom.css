@@ -1,0 +1,96 @@
+:root {
+  --glow-color: rgba(0, 195, 255, 0.75);
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.organic-blob {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(3,25,50,1) 0%, rgba(0,0,0,0) 70%);
+  animation: rotate 60s linear infinite;
+  z-index: 0;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.futuristic-text {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.glow {
+  text-shadow: 0 0 10px var(--glow-color), 0 0 20px var(--glow-color), 0 0 30px var(--glow-color);
+}
+
+.glow-input {
+  box-shadow: 0 0 10px var(--glow-color);
+}
+
+.glow-input:focus-within {
+  box-shadow: 0 0 20px var(--glow-color);
+}
+
+.iframe-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 0 0 30px rgba(0, 195, 255, 0.3);
+}
+
+.iframe-container::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg, #00f7ff, #0066ff, #00ffc3);
+  z-index: -1;
+  filter: blur(10px);
+  opacity: 0.7;
+  animation: glowingBorder 3s ease-in-out infinite alternate;
+}
+
+@keyframes glowingBorder {
+  0% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+button {
+  position: relative;
+  overflow: hidden;
+}
+
+button::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 70%);
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+button:hover::after {
+  opacity: 1;
+}
