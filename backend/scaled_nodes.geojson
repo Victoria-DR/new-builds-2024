@@ -1,0 +1,533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "St Andrew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05153329802586124,
+          0.005764116299769346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Osgoode"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0497351939659825,
+          0.012760746938232457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Union Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.055269462354888756,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "St Patrick Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04838708244176537,
+          0.022737274981551835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05770736622852826,
+          0.009301236063529013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Queen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05649627849775283,
+          0.01697836415605891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Queen's Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04649585196453742,
+          0.034685258096884934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Dundas Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.055397777761975936,
+          0.026168865585202008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Christie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.021712584151454578,
+          0.04470082719718502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "College Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05307352721637032,
+          0.03810265195253906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Bathurst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.028067484662575817,
+          0.049167597342384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Ossington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014657813732953712,
+          0.04057832819096565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Spadina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.03416495460976512,
+          0.051935963202048845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Museum Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04386787422957148,
+          0.051545079407151695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "St George"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.03817374474830816,
+          0.05456472770638006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Dufferin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.006328508768817767,
+          0.035329790456006004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Wellesley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05241408910278768,
+          0.048032330727437886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Lansdowne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.03279070207651923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04692549531168691,
+          0.05940936796077673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Bloor-Yonge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05054685111859043,
+          0.061097361297774835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Sherbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.058976835692302144,
+          0.06375593897291455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Castle Frank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.06590151348200284,
+          0.06760846315470613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Broadview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07506868961889025,
+          0.07488642601601067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Rosedale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04796383709275236,
+          0.07508423403812806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Chester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.08028288037876251,
+          0.07811594957316147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Dupont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.03174117964868645,
+          0.07011750175093183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Pape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.08698780470465983,
+          0.08213646860626193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Summerhill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04623140137485873,
+          0.08770892880805112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Donlands Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09327374901363514,
+          0.08461380113195753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "St. Clair West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.024260764631874557,
+          0.09216978364158229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "St Clair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.044212210934888724,
+          0.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Donlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09332573274850975,
+          0.08464716348975662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0000FF",
+        "name": "Greenwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1,
+          0.08835559067936319
+        ]
+      }
+    }
+  ]
+}

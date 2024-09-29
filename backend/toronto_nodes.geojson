@@ -1,0 +1,2245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#40593f",
+        "name": "Trinity-Bellwoods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          416.0,
+          262.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#ed6d48",
+        "name": "West Humber-Clairville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0,
+          550.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8416ee",
+        "name": "Mount Olive-Silverstone-Jamestown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0,
+          685.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8a65f7",
+        "name": "Humber Summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0,
+          737.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b29762",
+        "name": "Thistletown-Beaumond Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0,
+          646.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#bdbf3b",
+        "name": "Humbermede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0,
+          670.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#d79de9",
+        "name": "Rexdale-Kipling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          584.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b9fb1f",
+        "name": "Elms-Old Rexdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0,
+          574.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#36c5bd",
+        "name": "Pelmo Park-Humberlea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.0,
+          556.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#a2b9e5",
+        "name": "Downsview-Roding-CFB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          247.0,
+          625.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#3dc293",
+        "name": "Kingsview Village-The Westway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0,
+          476.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#70ca24",
+        "name": "Weston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          190.0,
+          492.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#ce8012",
+        "name": "Rustic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          230.0,
+          530.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#1a9982",
+        "name": "Humber Heights-Westmount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0,
+          446.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#3d7d3b",
+        "name": "Brookhaven-Amesbury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          258.0,
+          486.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#146b92",
+        "name": "Mount Dennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          226.0,
+          428.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#3aa687",
+        "name": "Willowridge-Martingrove-Richview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0,
+          408.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#43c311",
+        "name": "Princess-Rosethorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0,
+          332.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c21994",
+        "name": "Eringate-Centennial-West Deane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          296.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#cfc401",
+        "name": "Edenbridge-Humber Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0,
+          353.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#aefc25",
+        "name": "Rockcliffe-Smythe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          238.0,
+          370.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#7320a1",
+        "name": "Markland Woods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.0,
+          190.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#df3f2c",
+        "name": "Etobicoke West Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0,
+          240.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#aa9560",
+        "name": "Islington-City Centre West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.0,
+          189.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#784381",
+        "name": "Alderwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.0,
+          65.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8229b0",
+        "name": "Long Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0,
+          10.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#f79d97",
+        "name": "New Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          202.0,
+          46.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#047055",
+        "name": "Mimico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          225.0,
+          112.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#271de7",
+        "name": "Stonegate-Queensway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          223.0,
+          198.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c0b0c3",
+        "name": "Kingsway South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          202.0,
+          277.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#6605c4",
+        "name": "Lambton Baby Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235.0,
+          294.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#ea6652",
+        "name": "High Park-Swansea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          298.0,
+          240.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#42792a",
+        "name": "Runnymede-Bloor West Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          258.0,
+          302.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#9798f6",
+        "name": "High Park North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          301.0,
+          295.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#845cba",
+        "name": "Junction Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          290.0,
+          340.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#64adca",
+        "name": "Roncesvalles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          354.0,
+          244.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c2ecc0",
+        "name": "South Parkdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          362.0,
+          203.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#9f00af",
+        "name": "Dufferin Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          366.0,
+          285.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8ee859",
+        "name": "Little Portugal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          382.0,
+          251.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b5452b",
+        "name": "Dovercourt-Wallace Emerson-Juncti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          364.0,
+          330.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#94caaf",
+        "name": "Niagara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          422.0,
+          204.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#599140",
+        "name": "Weston-Pellam Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          315.0,
+          366.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#69d24c",
+        "name": "Palmerston-Little Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          409.0,
+          301.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#2dd50f",
+        "name": "University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          448.0,
+          316.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#15bbb7",
+        "name": "Kensington-Chinatown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          456.0,
+          277.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#fce716",
+        "name": "Waterfront Communities-The Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          495.0,
+          197.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#80762a",
+        "name": "Annex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          441.0,
+          356.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8d7491",
+        "name": "Wychwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393.0,
+          379.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#7dd715",
+        "name": "Corsa Italia-Davenport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          344.0,
+          382.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#719373",
+        "name": "Oakwood-Vaughan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          361.0,
+          430.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#982cfa",
+        "name": "Humewood-Cedarvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          388.0,
+          442.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#41e825",
+        "name": "Casa Loma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          432.0,
+          401.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#f61808",
+        "name": "Forest Hill South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          418.0,
+          456.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#d569c1",
+        "name": "Yonge-St.Clair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          455.0,
+          427.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#f2fec5",
+        "name": "Bay Street Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          482.0,
+          294.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#135e2d",
+        "name": "Rosedale-Moore Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          496.0,
+          405.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#eaa972",
+        "name": "Church-Yonge Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.0,
+          304.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#830a8b",
+        "name": "Caledonia-Fairbanks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          326.0,
+          430.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8a5ed8",
+        "name": "North St.James Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          506.0,
+          347.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b6693c",
+        "name": "Cabbagetown-South St.James Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          526.0,
+          339.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#4c3e74",
+        "name": "Moss Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          524.0,
+          290.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#83c658",
+        "name": "Regent Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          539.0,
+          305.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#dde3f1",
+        "name": "Playter Estates-Danforth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          552.0,
+          391.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#a7a5d4",
+        "name": "South Riverdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          594.0,
+          267.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b19c40",
+        "name": "North Riverdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          560.0,
+          358.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#d9c025",
+        "name": "Blake-Jones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          591.0,
+          376.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#fdca71",
+        "name": "Danforth Village - Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          608.0,
+          410.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#120010",
+        "name": "Broadview North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          550.0,
+          431.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#61eb1d",
+        "name": "Old East York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          595.0,
+          466.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#a60aef",
+        "name": "Danforth Village - East York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          604.0,
+          434.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#a4d033",
+        "name": "Greenwood-Coxwell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          620.0,
+          360.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b47923",
+        "name": "Woodbine Corridor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          640.0,
+          378.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#71a2f9",
+        "name": "Maple Leaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          269.0,
+          548.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#e53f06",
+        "name": "Beechborough-Greenbrook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          272.0,
+          450.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#209fa9",
+        "name": "Keelesdale-Eglinton West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          290.0,
+          418.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#a45bc5",
+        "name": "Briar Hill-Belgravia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          331.0,
+          476.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b73316",
+        "name": "Yorkdale-Glen Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          322.0,
+          544.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#2b798a",
+        "name": "Forest Hill North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          387.0,
+          499.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#fc532d",
+        "name": "Englemount-Lawrence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          366.0,
+          569.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c5854d",
+        "name": "Bedford Park-Nortown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          405.0,
+          618.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#4bc1b6",
+        "name": "Lawrence Park South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          437.0,
+          555.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#6040e5",
+        "name": "Yonge-Eglinton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          442.0,
+          501.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#f53e2e",
+        "name": "Mount Pleasant West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          465.0,
+          499.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#e44b7c",
+        "name": "Lawrence Park North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          441.0,
+          611.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#dbdadb",
+        "name": "Mount Pleasant East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484.0,
+          501.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#3d1248",
+        "name": "Black Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.0,
+          763.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b39f59",
+        "name": "Glenfield-Jane Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          195.0,
+          680.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#b9205f",
+        "name": "York University Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          251.0,
+          767.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8666e1",
+        "name": "Bathurst Manor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          324.0,
+          763.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#df9a92",
+        "name": "Westminster-Branson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          333.0,
+          825.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#7f15eb",
+        "name": "Clanton Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          346.0,
+          663.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c370e5",
+        "name": "Lansing-Westgate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          395.0,
+          717.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#672a5e",
+        "name": "Willowdale West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          388.0,
+          791.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#dd88de",
+        "name": "Newtonbrook West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          380.0,
+          855.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#cd7900",
+        "name": "Newtonbrook East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          437.0,
+          880.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#6a5d24",
+        "name": "Willowdale East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          447.0,
+          789.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#67b70b",
+        "name": "Bayview Woods-Steeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          490.0,
+          903.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#3f2c4a",
+        "name": "Bayview Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          502.0,
+          813.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#cd36a5",
+        "name": "St.Andrew-Windfields"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          497.0,
+          726.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#26a277",
+        "name": "Don Valley Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          554.0,
+          844.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#180388",
+        "name": "Henry Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          582.0,
+          791.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#285540",
+        "name": "Pleasant View"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          596.0,
+          861.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c7628e",
+        "name": "Parkwoods-Donalda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          607.0,
+          720.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c22b74",
+        "name": "Tam O'Shanter-Sullivan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          668.0,
+          830.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#5854df",
+        "name": "Bridle Path-Sunnybrook-York Mills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          498.0,
+          615.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#a0bfb9",
+        "name": "Leaside-Bennington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          526.0,
+          495.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#e465bf",
+        "name": "Banbury-Don Mills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          563.0,
+          644.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#6f8e05",
+        "name": "Thorncliffe Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          563.0,
+          514.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#4aced7",
+        "name": "Flemingdon Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          601.0,
+          550.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#1814ed",
+        "name": "Victoria Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          641.0,
+          604.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#9ffebe",
+        "name": "O'Connor-Parkview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          647.0,
+          509.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#637423",
+        "name": "The Beaches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          676.0,
+          353.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0b0171",
+        "name": "East End-Danforth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          676.0,
+          411.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#f2ab2d",
+        "name": "Woodbine-Lumsden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          650.0,
+          453.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#9aeffe",
+        "name": "Crescent Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          684.0,
+          458.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#3a9f28",
+        "name": "Birchcliffe-Cliffside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          753.0,
+          457.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#1862fe",
+        "name": "Oakridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          720.0,
+          469.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#1464e9",
+        "name": "Clairlea-Birchmount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          717.0,
+          539.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#412a1b",
+        "name": "Wexford/Maryvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678.0,
+          692.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#8a9a5e",
+        "name": "Dorset Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          722.0,
+          739.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#4ff633",
+        "name": "Ionview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          737.0,
+          634.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#cb9fa0",
+        "name": "Kennedy Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          764.0,
+          592.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#ca6568",
+        "name": "Cliffcrest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          819.0,
+          572.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#1a20de",
+        "name": "Eglinton East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          797.0,
+          659.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#dd4b9c",
+        "name": "Bendale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          770.0,
+          744.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#0acfa8",
+        "name": "Scarborough Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          861.0,
+          649.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#10d009",
+        "name": "Woburn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          835.0,
+          772.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#878704",
+        "name": "Guildwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          910.0,
+          693.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#d82704",
+        "name": "Morningside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          884.0,
+          840.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#00be4f",
+        "name": "West Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          952.0,
+          775.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#2dcbc8",
+        "name": "Rouge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          930.0,
+          1010.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#bacae7",
+        "name": "Centennial Scarborough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1010.0,
+          840.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#5134df",
+        "name": "Highland Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          950.0,
+          876.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#c6a9f8",
+        "name": "Malvern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          849.0,
+          932.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#ec94fc",
+        "name": "Hillcrest Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          551.0,
+          930.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#418252",
+        "name": "Steeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          627.0,
+          974.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#5ae7bc",
+        "name": "L'Amoreaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643.0,
+          898.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#6955ed",
+        "name": "Agincourt South-Malvern West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          752.0,
+          867.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#34369d",
+        "name": "Milliken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          731.0,
+          1008.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "marker-color": "#a2e30e",
+        "name": "Agincourt North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          750.0,
+          941.0
+        ]
+      }
+    }
+  ]
+}

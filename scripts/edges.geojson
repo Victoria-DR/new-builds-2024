@@ -1,0 +1,446 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Bloor-Yonge - Sherbourne",
+        "stroke": "#f1bc1a",
+        "ref": "0-17"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.385918,
+            43.671043
+          ],
+          [
+            79.3764313,
+            43.6721666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Sherbourne - Bay",
+        "stroke": "#f1bc1a",
+        "ref": "17-18"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3764313,
+            43.6721666
+          ],
+          [
+            79.3899933,
+            43.6703296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Bay - St George",
+        "stroke": "#f1bc1a",
+        "ref": "18-14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3899933,
+            43.6703296
+          ],
+          [
+            79.3998421,
+            43.6682821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: St George - Bathurst",
+        "stroke": "#f1bc1a",
+        "ref": "14-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3998421,
+            43.6682821
+          ],
+          [
+            79.4112152,
+            43.6660011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Bathurst - Dufferin",
+        "stroke": "#f1bc1a",
+        "ref": "3-11"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4112152,
+            43.6660011
+          ],
+          [
+            79.4356792,
+            43.6601528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Dufferin - Keele",
+        "stroke": "#f1bc1a",
+        "ref": "11-8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4356792,
+            43.6601528
+          ],
+          [
+            79.4597003,
+            43.6555476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Bloor-Yonge - Eglinton",
+        "stroke": "#f1bc1a",
+        "ref": "0-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.385918,
+            43.671043
+          ],
+          [
+            79.3989653,
+            43.7053057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Eglinton - St Clair",
+        "stroke": "#f1bc1a",
+        "ref": "1-12"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3989653,
+            43.7053057
+          ],
+          [
+            79.3930467,
+            43.6874845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: St Clair - Eglinton West",
+        "stroke": "#f1bc1a",
+        "ref": "12-15"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3930467,
+            43.6874845
+          ],
+          [
+            79.4361468,
+            43.6993703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Eglinton West - Yorkdale",
+        "stroke": "#f1bc1a",
+        "ref": "15-19"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4361468,
+            43.6993703
+          ],
+          [
+            79.4474947,
+            43.7245766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Bloor-Yonge - College Station",
+        "stroke": "#f1bc1a",
+        "ref": "0-2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.385918,
+            43.671043
+          ],
+          [
+            79.3830746,
+            43.6613247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: College Station - Dundas Station",
+        "stroke": "#f1bc1a",
+        "ref": "2-9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3830746,
+            43.6613247
+          ],
+          [
+            79.380459,
+            43.6562811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Dundas Station - Queen",
+        "stroke": "#f1bc1a",
+        "ref": "9-13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.380459,
+            43.6562811
+          ],
+          [
+            79.3792228,
+            43.6523969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Queen - King",
+        "stroke": "#f1bc1a",
+        "ref": "13-6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3792228,
+            43.6523969
+          ],
+          [
+            79.3778599,
+            43.6491523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: King - St Andrew",
+        "stroke": "#f1bc1a",
+        "ref": "6-7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3778599,
+            43.6491523
+          ],
+          [
+            79.3848079,
+            43.6476574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: St Andrew - Osgoode",
+        "stroke": "#f1bc1a",
+        "ref": "7-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3848079,
+            43.6476574
+          ],
+          [
+            79.3868314,
+            43.6506144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Osgoode - St George",
+        "stroke": "#f1bc1a",
+        "ref": "10-14"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3868314,
+            43.6506144
+          ],
+          [
+            79.3998421,
+            43.6682821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: St George - Queen's Park",
+        "stroke": "#f1bc1a",
+        "ref": "14-16"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3998421,
+            43.6682821
+          ],
+          [
+            79.3904768,
+            43.6598804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Bloor-Yonge - Sherbourne",
+        "stroke": "#f1bc1a",
+        "ref": "0-17"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.385918,
+            43.671043
+          ],
+          [
+            79.3764313,
+            43.6721666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Sherbourne - Pape",
+        "stroke": "#f1bc1a",
+        "ref": "17-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3764313,
+            43.6721666
+          ],
+          [
+            79.3449091,
+            43.6799348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection: Pape - Main Street",
+        "stroke": "#f1bc1a",
+        "ref": "4-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.3449091,
+            43.6799348
+          ],
+          [
+            79.301919,
+            43.6889948
+          ]
+        ]
+      }
+    }
+  ]
+}
