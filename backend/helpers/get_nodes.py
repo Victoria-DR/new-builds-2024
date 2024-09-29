@@ -3,22 +3,11 @@ import json
 import os
 import requests
 
+from get_city import get_city_coords
+
 load_dotenv()
 
-get_city_response = {
-    "places": [
-        {
-            "location": {
-                "latitude": 43.653226,
-                "longitude": -79.3831843
-            },
-            "displayName": {
-                "text": "Toronto",
-                "languageCode": "en"
-            }
-        }
-    ]
-}
+get_city_response = get_city_coords("Toronto")["places"][0]["location"]
 
 data = {
     "type": "FeatureCollection",
@@ -41,8 +30,8 @@ for i in range(-2, 3):
                 "locationRestriction": {
                     "circle": {
                         "center": {
-                            "latitude": 43.653226 + i * lat_diff,
-                            "longitude": -79.3831843 + j * lon_diff
+                            "latitude": get_city_response["latitude"] + i * lat_diff,
+                            "longitude": get_city_response["longitude"] + j * lon_diff
                         },
                         "radius": 5000.0
                     }
@@ -50,8 +39,6 @@ for i in range(-2, 3):
                 "rankPreference": "DISTANCE"
             }
         )
-
-        print(get_subway_stations_response.json())
 
         for station in get_subway_stations_response.json()["places"]:
             if station["displayName"]["text"] not in [feature["properties"]["name"] for feature in data["features"]]:
@@ -80,5 +67,5 @@ for feature in data["features"]:
     if min_lat < 0:
         feature["geometry"]["coordinates"][1] += abs(min_lat)
 
-with open("toronto_nodes.geojson", "w") as file:
+with open("nodes.geojson", "w") as file:
     file.write(json.dumps(data))
