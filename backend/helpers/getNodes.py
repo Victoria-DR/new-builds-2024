@@ -66,11 +66,19 @@ for i in range(-2, 3):
                     "geometry": {
                         "type": "Point",
                         "coordinates": [
-                            abs(station["location"]["longitude"]),
-                            abs(station["location"]["latitude"])
+                            station["location"]["longitude"],
+                            station["location"]["latitude"]
                         ]
                     }
                 })
+
+min_lon = min([feature["geometry"]["coordinates"][0] for feature in data["features"]])
+min_lat = min([feature["geometry"]["coordinates"][1] for feature in data["features"]])
+for feature in data["features"]:
+    if min_lon < 0:
+        feature["geometry"]["coordinates"][0] += abs(min_lon)
+    if min_lat < 0:
+        feature["geometry"]["coordinates"][1] += abs(min_lat)
 
 with open("toronto_nodes.geojson", "w") as file:
     file.write(json.dumps(data))
