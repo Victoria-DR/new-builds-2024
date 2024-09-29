@@ -47,7 +47,7 @@ export default function Home() {
       <div className="mt-8 w-full max-w-4xl">
         <div className="iframe-container">
           <iframe
-            src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1"
+            src="https://victoria-dr.github.io/mold-your-city-simulation/lab/index.html"
             width="100%"
             height="600px"
             style={{border: 'none'}}
