@@ -12,3 +12,5 @@ dependencies:
       - networkx
       - scipy
       - empiricaldist
+      - requests
+      - python-dotenv
